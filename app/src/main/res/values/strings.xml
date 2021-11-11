@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="hello">Hello</string>
+    <string name="syafa">Syafa</string>
+    <string name="search_elements">Search elements</string>
+    <string name="menu">menu</string>
+    <string name="movie">MOVIE</string>
+    <string name="film">film</string>
+    <string name="music">MUSIC</string>
+    <string name="e_book">E-BOOK</string>
+    <string name="games">games</string>
+    <string name="game">GAME</string>
+    <string name="musik">Musik</string>
+    <string name="trending">TRENDING</string>
+    <string name="e_boook">E-BOOK</string>
+    <string name="favoriteborder">favoriteborder</string>
+    <string name="dummytext">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+    <string name="settings">Settings</string>
+
+</resources>
